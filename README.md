@@ -14,9 +14,6 @@ I'm a software engineer who loves taking products from zero to one. I specialize
 * **Cloud & DevOps:** Azure, GCP, Docker, Ansible, CI/CD, ELK Stack, Zabbix
 * **Databases:** PostgreSQL, MySQL
 
-### 📈 GitHub Stats
-![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganeshthoutam&show_icons=true&theme=transparent&hide_border=true&title_color=2f80ed&icon_color=2f80ed&text_color=ffffff&bg_color=0d1117)
-
 ### 📫 Let's Connect
 * **LinkedIn:** [linkedin.com/in/ganeshthoutam](https://www.linkedin.com/in/ganeshthoutam)
 * **Portfolio:** [ganeshthoutam.vercel.app](https://ganeshthoutam.vercel.app/)
